@@ -1,0 +1,1 @@
+py -m virtualenv -p=C:\Users\ASUS\.pyenv\pyenv-win\versions\3.9.7\python.exe alien_env
